@@ -42,7 +42,7 @@
 
 ## <b> ⚡ Potifólio</b>:
 
-<a href="https://github.com/lenansacchi/Análise_Dados">
+<a href="https://github.com/lenansacchi/Analise_Dados">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonan&repo=Analise_Dados&theme=dark" />
 </a>
 
