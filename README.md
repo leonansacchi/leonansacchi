@@ -1,7 +1,6 @@
 # Leonan Sacchi
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lenansacchi//)](https://www.linkedin.com/in/leonansacchi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=leonansacchi@gmail.com)](leonansacchi@gmail.com)
-[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://leonansacchi.glitch.me/)](https://leonansacchi.glitch.me/)
 #### "Sem os dados você é apenas uma pessoal qualquer com uma opinião - W. E. Deming" 😉
 
  ## 📌 **Sobre mim:**
@@ -40,15 +39,14 @@
  ![Viola Caipira](https://img.shields.io/badge/-Viola%20Caipira-black?style=plastic)
  ![Carros Antigos](https://img.shields.io/badge/-Carros%20Antigos-black?style=plastic)
 
-## <b> ⚡ Potifólio</b>:
+## <b> ⚡ Potfólio</b>:
 
-<a href="https://github.com/leonansacchi/Analise_Dados">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonan&repo=Analise_Dados&theme=dark" />
-</a>
-
-<a href="https://github.com/leonansacchi/Dashboards">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=leonan&repo=Dashboards&theme=dark" />
-</a>
+* **Data cleaning - :**
+* **Análise exploratória de dados (EDA) -  :**
+* **Análise exploratória de dados (EDA) -  :**
+* **Análise exploratória de dados (EDA) -  :**
+* **Dashboard - :**
+* **Dashboard - :**
 
 ## <b> :chart_with_upwards_trend: Estatísticas </b>:
 
@@ -59,3 +57,6 @@
 <a href="https://github.com/leonansacchi">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonansacchi&layout=compact&langs_count=8&theme=dark"/>
 </a>
+
+
+---
